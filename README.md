@@ -59,3 +59,14 @@
    - Java 21
    - JUnit 단위 테스트
    - 객체지향 설계
+
+## 실행 화면 예시 
+
+### 메인 메뉴 ATM 실행
+![메인 메뉴](images/ATM.png)
+
+### 주식 매수 화면
+![주식 매수](images/stock-buy.png)
+
+### 최종 결과 출력
+![최종 결과](images/result-summary.png)
