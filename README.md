@@ -35,4 +35,26 @@
     │   ├── LG_ES.java  
     │   ├── Stock.java  
     │   ├── StockDB.java  
-    │   └── StockMarket.java  
+    │   └── StockMarket.java 
+
+## 테스트  
+   - JUnit 기반 테스트 코드 작성 완료
+   - `ProfitCalculator.calculateROI()` 단위 테스트
+   -  `CMAAccount.getBalanceWithInterest()` 단위 테스트
+
+## 실행 방법  
+   1. Java IDE(Eclipse, IntelliJ 등)에서 프로젝트 import
+   2. `Simulator.java` 실행
+
+## 실행 흐름  
+   [사용자 입력]  
+         ↓  
+   [ATM 메뉴] → 계좌조회/출금/주식  
+         ↓  
+   [주식 메뉴] → 매수/매도/날짜 이동  
+         ↓  
+   [마지막 날짜 도달] → 수익률 결과 출력  
+
+## 사용 기술  
+   - Java 21
+   - JUnit 단위 테스
