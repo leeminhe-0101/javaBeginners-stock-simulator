@@ -69,4 +69,4 @@
 ![주식 매수](images/stock-buy.png)
 
 ### 최종 결과 출력
-![최종 결과](images/result-summary.png)
+![최종 결과]()
